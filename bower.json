@@ -1,10 +1,13 @@
 {
-    "name": "image-segmentation-mst",
-    "version": "0.0.1",
-    "dependencies": {
-        "bootstrap": "latest",
-        "bootstrap-material-design": "latest",
-        "nouislider": "latest"
-    },
-    "private": true
+  "name": "image-segmentation-mst",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "3",
+    "bootstrap-material-design": "0.x",
+    "nouislider": "7"
+  },
+  "private": true,
+  "resolutions": {
+    "bootstrap": "3"
+  }
 }
